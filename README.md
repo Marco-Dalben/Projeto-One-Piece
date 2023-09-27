@@ -7,7 +7,6 @@ Projeto que estou fazendo com o pessoal do canal Dev em dobro para estudos!
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=<main<>, initial-scale=1.0">
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Rubik&family=Secular+One&display=swap" rel="stylesheet">
